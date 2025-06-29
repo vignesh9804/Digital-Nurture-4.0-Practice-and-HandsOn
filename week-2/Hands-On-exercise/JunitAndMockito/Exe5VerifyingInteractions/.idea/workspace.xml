@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16805a5b-3cf1-45a3-ab0a-3824559c7c50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/Junit5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/Exe1JunitTestSetup.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/Test/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe1JunitTestSetup/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/Exe2AssertionsJuit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/src/MathUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exe2AssertionsJuit/test/AssertionsTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2zAv99fAVH6fRcZBXTeyIybeyKN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MyServiceTest.executor": "Run",
+    "JUnit.MyServiceTest.testVerifyInteraction.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MyServiceTest">
+    <configuration name="MyServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exe5VerifyingInteractions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServiceTest.testVerifyInteraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exe5VerifyingInteractions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyServiceTest" />
+      <option name="METHOD_NAME" value="testVerifyInteraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyServiceTest" />
+        <item itemvalue="JUnit.MyServiceTest.testVerifyInteraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16805a5b-3cf1-45a3-ab0a-3824559c7c50" name="Changes" comment="" />
+      <created>1751186541298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751186541298</updated>
+    </task>
+    <servers />
+  </component>
+</project>
