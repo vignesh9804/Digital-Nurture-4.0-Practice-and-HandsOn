@@ -1,0 +1,29 @@
+.student_details_div{
+    text-align: center;
+}
+
+.main_heading{
+    color: brown;
+}
+
+.details_heading{
+    font-weight: bold;
+}
+
+.name_heading{
+    color: blue;
+}
+
+.school_heading{
+    color: red;
+}
+.marks_heading{
+    color: purple;
+}
+.percentage_heading{
+    color: green;
+}
+
+.stu_name{
+    font-weight: normal;
+}
